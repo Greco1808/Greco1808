@@ -7,7 +7,7 @@
 - 🚴 Ciclista nas horas vagas
 
 <h2>
-<div align="left">
+<div align="left" style="display: inline-block">
   <a href="https://github.com/Greco1808">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=Greco1808&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Greco1808&layout=compact&langs_count=7&theme=radical"/>
@@ -24,3 +24,5 @@
     
     
   </div>
+  
+  ![Snake animation](https://github.com/Greco1808/Greco1808/blob/output/github-contribution-grid-snake.svg)
